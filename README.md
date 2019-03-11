@@ -8,6 +8,7 @@ HTML Forms
     -Get: data is sent using the url and separated param with ?
 
 3- Input elements
+
     -type
     -id
     -name
